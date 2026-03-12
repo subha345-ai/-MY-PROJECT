@@ -1,3 +1,4 @@
 # -MY-PROJECT
 this is my first GitHub practice project
-auther -subhajyoti
+<br>
+<h3>auther -subhajyoti</h3>
